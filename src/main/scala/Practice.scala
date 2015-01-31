@@ -33,6 +33,7 @@ object Practice {
         }
     }
 
+    // P05
     def reverse(list: List[Any]): Any = Unit
 }
 
